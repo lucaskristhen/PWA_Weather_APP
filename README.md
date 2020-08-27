@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##ScreenShoots
 <img src="https://ik.imagekit.io/kristhen/Capturar1_UVfPKLqayl.PNG" width="1000px"> <br>
 <img src="https://ik.imagekit.io/kristhen/Capturar_AwmUA5seb.PNG" width="1000px"> <br>
-<img src="https://ik.imagekit.io/kristhen/Capturar2_finpZHCiK.PNG" width="1000px"> <br>
+<img src="https://ik.imagekit.io/kristhen/Capturar2_finpZHCiK.PNG" width="700px"> <br>
 
 
 ## Available Scripts
